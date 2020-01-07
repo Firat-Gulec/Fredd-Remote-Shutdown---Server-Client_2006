@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Fredd_Remote_Shutdown___Client.Form1.resources
+obj\Debug\Fredd_Remote_Shutdown___Client.Resources.resources
+obj\Debug\Fredd Remote Shutdown - Client.vbproj.GenerateResource.Cache
+bin\Debug\Fredd Remote Shutdown - Client.exe
+bin\Debug\Fredd Remote Shutdown - Client.pdb
+bin\Debug\Fredd Remote Shutdown - Client.xml
+obj\Debug\Fredd Remote Shutdown - Client.exe
+obj\Debug\Fredd Remote Shutdown - Client.xml
+obj\Debug\Fredd Remote Shutdown - Client.pdb

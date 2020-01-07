@@ -1,0 +1,10 @@
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\bin\Debug\Fredd Remote Shutdown - Client.exe
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\bin\Debug\Fredd Remote Shutdown - Client.pdb
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\bin\Debug\Fredd Remote Shutdown - Client.xml
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\obj\Debug\Fredd Remote Shutdown - Client.vbprojAssemblyReference.cache
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\obj\Debug\Fredd_Remote_Shutdown___Client.Form1.resources
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\obj\Debug\Fredd_Remote_Shutdown___Client.Resources.resources
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\obj\Debug\Fredd Remote Shutdown - Client.vbproj.GenerateResource.cache
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\obj\Debug\Fredd Remote Shutdown - Client.exe
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\obj\Debug\Fredd Remote Shutdown - Client.xml
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd Remote Shutdown - Client\Fredd Remote Shutdown - Client\obj\Debug\Fredd Remote Shutdown - Client.pdb
