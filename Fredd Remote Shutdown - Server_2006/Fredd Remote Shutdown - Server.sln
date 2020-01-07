@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fredd Remote Shutdown - Server", "Fredd Remote Shutdown - Server\Fredd Remote Shutdown - Server.vbproj", "{F45B7147-8898-4629-989B-0D09C12DD645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45B7147-8898-4629-989B-0D09C12DD645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45B7147-8898-4629-989B-0D09C12DD645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45B7147-8898-4629-989B-0D09C12DD645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45B7147-8898-4629-989B-0D09C12DD645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727CCCFC-F309-47BC-95F4-9B685A7E5106}
+	EndGlobalSection
+EndGlobal

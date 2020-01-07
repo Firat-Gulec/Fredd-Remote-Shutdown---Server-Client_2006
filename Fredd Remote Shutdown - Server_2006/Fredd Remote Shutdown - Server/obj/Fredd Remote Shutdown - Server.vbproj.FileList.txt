@@ -1,0 +1,10 @@
+bin\Debug\Fredd Remote Shutdown - Server.exe
+bin\Debug\Fredd Remote Shutdown - Server.pdb
+bin\Debug\Fredd Remote Shutdown - Server.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Fredd_Remote_Shutdown___Server.Form1.resources
+obj\Debug\Fredd_Remote_Shutdown___Server.Resources.resources
+obj\Debug\Fredd Remote Shutdown - Server.vbproj.GenerateResource.Cache
+obj\Debug\Fredd Remote Shutdown - Server.exe
+obj\Debug\Fredd Remote Shutdown - Server.xml
+obj\Debug\Fredd Remote Shutdown - Server.pdb
